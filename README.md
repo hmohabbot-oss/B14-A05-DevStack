@@ -3,8 +3,8 @@
 Dev Stack is an interactive web platform designed to help developers and software architects explore, compare, and assemble their ideal technology stack for modern web applications.
 
 ## 🚀 Live Demo & Repository
-- **Live Site**: https://your-deployed-site.netlify.app[cite: 2]
-- **GitHub Repository**: https://github.com/your-username/B14-A05-DevStack[cite: 2]
+- **Live Site**: https://effortless-medovik-439f0a.netlify.app/
+- **GitHub Repository**: https://github.com/hmohabbot-oss/B14-A05-DevStack
 
 ---
 
