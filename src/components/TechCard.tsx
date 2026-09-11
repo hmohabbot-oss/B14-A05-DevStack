@@ -16,7 +16,7 @@ interface TechCardProps {
   isAdded: boolean;
   onAdd: (tech: Technology) => void;
 }
-
+    
 export const TechCard: React.FC<TechCardProps> = ({ tech, isAdded, onAdd }) => {
   return (
     <div className={`flex flex-col justify-between rounded-2xl border p-6 transition-all duration-200 bg-white ${
