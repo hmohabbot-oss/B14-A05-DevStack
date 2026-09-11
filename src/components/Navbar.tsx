@@ -26,13 +26,13 @@ export const Navbar: React.FC = () => {
           </div>
 
           {/* Left: Brand Logo & Title */}
-<div className="flex items-center gap-3">
-  <img 
-    src="/logo-text.png" 
-    alt="Dev Stack" 
-    className="h-9 w-auto object-contain cursor-pointer"
-  />
-</div>
+          <div className="flex items-center gap-3">
+            <img 
+              src="/logo-text.png" 
+              alt="Dev Stack" 
+              className="h-9 w-auto object-contain cursor-pointer"
+            />
+          </div>
 
           {/* Center: Nav links (Desktop) */}
           <nav className="hidden lg:flex items-center gap-8">
