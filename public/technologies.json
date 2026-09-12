@@ -90,6 +90,16 @@
     "badge": "Top SQL"
   },
   {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "category": "Database",
+    "description": "A leading document-oriented NoSQL database program for scalable, high-volume data storage.",
+    "icon": "https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg",
+    "rating": 4.8,
+    "difficulty": "Beginner-Friendly",
+    "badge": "NoSQL Leader"
+  },
+  {
     "id": "figma",
     "name": "Figma",
     "category": "Tools",

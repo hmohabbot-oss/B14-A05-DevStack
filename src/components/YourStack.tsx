@@ -6,7 +6,7 @@ interface YourStackProps {
   onRemove: (id: string) => void;
   onRemoveAll: () => void;
 }
-
+  
 export const YourStack: React.FC<YourStackProps> = ({ stack, onRemove, onRemoveAll }) => {
   return (
     <div className="bg-white rounded-2xl border border-gray-100 p-6 sticky top-28 shadow-sm">
